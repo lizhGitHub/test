@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-	},
+        "rap2hpoutre/laravel-log-viewer": "^1.0"
+    },
     "autoload": {
         "psr-4": {
             "Lzh\\": "src/"
